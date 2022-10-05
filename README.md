@@ -1,13 +1,10 @@
 ### <h2>Olá, Mundo! Meu nome é Lucas <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h2><br/>
 
-👨‍💻 Developer Front-End Pleno
+👨‍💻 - Developer Front-End Pleno
 
-🧬 Developer Data-Science Jr.<br/>
+🧬 - Developer Data-Science Jr.
 
-<div align="center">
-  <img src="https://github.com/l0cass/l0cass/blob/output/github-contribution-grid-snake.gif" />
-</div>
-
+🎮 - Developer Game Jr.<br/>
 <div align="center"><br/>
   <h2>⚙️ Github Analytics</h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
