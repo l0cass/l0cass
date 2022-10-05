@@ -4,6 +4,10 @@
 
 🧬 Developer Data-Science Jr.<br/>
 
+<div align="center">
+  <img src="https://github.com/l0cass/l0cass/blob/output/github-contribution-grid-snake.gif" />
+</div>
+
 <div align="center"><br/>
   <h2>⚙️ Github Analytics</h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
