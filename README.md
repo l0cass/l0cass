@@ -1,36 +1,28 @@
-# Sobre Mim
+### Salve! 👋
 
-Olá! Eu sou Lucas Piffer, um entusiasta de tecnologia e desenvolvedor Full-Stack JavaScript de 15 anos. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades. Nasci em 25 de junho de 2008 e desde então tenho explorado o mundo da programação.
+Me chamo `Lucas Piffer`. Tenho 15 anos. Sou desenvolvedor Full stack JavaScript.
 
-## Habilidades
+<br/>
 
-Como desenvolvedor Full-Stack JavaScript, estou familiarizado com várias tecnologias e ferramentas, incluindo:
+![SO](https://img.shields.io/badge/-OS-blue?style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-0A1A2F?style=for-the-badge&logo=ubuntu)
 
-- **Front-end:**
-  - React.js
-  - Sass/Scss
-  - Webpack + Babel
+![IDE](https://img.shields.io/badge/-IDE-darkblue?style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=for-the-badge&logo=visualstudiocode)
 
-- **Back-end:**
-  - Node.js
-  - Next.js
-  - Express.js
+![Linguagens de Programação](https://img.shields.io/badge/-linguagens%20de%20programação-red?style=for-the-badge)
+![Javascript](https://img.shields.io/badge/-javascript-0A1A2F?style=for-the-badge&logo=javascript)
 
-- **Banco de Dados:**
-  - MongoDB
+![Technologies](https://img.shields.io/badge/-tecnologias-darkred?style=for-the-badge)
+![Node.Js](https://img.shields.io/badge/-node.js-0A1A2F?style=for-the-badge&logo=node.js)
+![Git](https://img.shields.io/badge/-git-0A1A2F?style=for-the-badge&logo=git)
+![React](https://img.shields.io/badge/-react-0A1A2F?style=for-the-badge&logo=react)
+![Webpack](https://img.shields.io/badge/-webpack-0A1A2F?style=for-the-badge&logo=webpack)
+![Babel](https://img.shields.io/badge/-babel-0A1A2F?style=for-the-badge&logo=babel)
+![Sass](https://img.shields.io/badge/-sass-0A1A2F?style=for-the-badge&logo=sass)
+![Tailwind](https://img.shields.io/badge/-tailwind-0A1A2F?style=for-the-badge&logo=tailwindcss)
 
-## Projetos
 
-### qBank
-Um dos meus projetos notáveis é o `qBank-project`, um banco de dados simples desenvolvido usando JavaScript no lado do cliente e Express.js no lado do servidor. Este projeto demonstra minha habilidade em construir soluções web eficientes e interativas.
-
-### PokéPalette
-Outro projeto interessante em meu portfólio é o `pokePalette`. Este projeto destaca minha paixão por integrar dados e criar experiências envolventes. Exploro dados relacionados a Pokémon e os apresento de maneira interativa.
-
-## Objetivos Futuros
-
-Estou ansioso para continuar minha jornada no mundo da programação. Meu objetivo é aprimorar minhas habilidades em desenvolvimento web e expandir meu conhecimento em novas tecnologias. Estou aberto a colaborações e sempre em busca de oportunidades para contribuir para projetos inovadores.
-
-Se você está interessado em trabalhar comigo ou apenas quer bater um papo sobre tecnologia, sinta-se à vontade para entrar em contato!
-
-Vamos construir coisas incríveis juntos! 🚀
+### 📍 Melhores Projetos
+[![qBank](https://img.shields.io/badge/-qbank-0A1A2F?style=for-the-badge&logo=javascript)](https://github.com/l0cass/qBank-project)
+[![Pokébola](https://img.shields.io/badge/Pok%C3%A9bola-0A1A2F?style=for-the-badge&logo=javascript)](https://github.com/l0cass/pokePalette)
