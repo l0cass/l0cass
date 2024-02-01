@@ -21,8 +21,3 @@ Me chamo `Lucas Piffer`. Tenho 15 anos. Sou desenvolvedor Full stack JavaScript.
 ![Babel](https://img.shields.io/badge/-babel-0A1A2F?style=for-the-badge&logo=babel)
 ![Sass](https://img.shields.io/badge/-sass-0A1A2F?style=for-the-badge&logo=sass)
 ![Tailwind](https://img.shields.io/badge/-tailwind-0A1A2F?style=for-the-badge&logo=tailwindcss)
-
-
-### 📍 Melhores Projetos
-[![qBank](https://img.shields.io/badge/-qbank-0A1A2F?style=for-the-badge&logo=javascript)](https://github.com/l0cass/qBank-project)
-[![Pokébola](https://img.shields.io/badge/Pok%C3%A9bola-0A1A2F?style=for-the-badge&logo=javascript)](https://github.com/l0cass/pokePalette)
