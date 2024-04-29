@@ -1,23 +1,28 @@
-### Salve! 👋
+# Olá! Eu sou Lucas Piffer 👋
 
-Me chamo `Lucas Piffer`. Tenho 15 anos. Sou desenvolvedor Full stack JavaScript.
+## Sobre mim
+Olá! Meu nome é Lucas Piffer, tenho 15 anos e sou um desenvolvedor Fullstack. Estou sempre em busca de aprender e aprimorar minhas habilidades em desenvolvimento web. 
 
-<br/>
+## Habilidades
+Aqui estão algumas das tecnologias com as quais trabalho:
 
-![SO](https://img.shields.io/badge/-OS-blue?style=for-the-badge)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-0A1A2F?style=for-the-badge&logo=ubuntu)
+- ![Git](https://img.shields.io/badge/-git-0A1A2F?style=for-the-badge&logo=git)
+- ![React](https://img.shields.io/badge/-react-0A1A2F?style=for-the-badge&logo=react)
+- ![Node.js](https://img.shields.io/badge/-node.js-0A1A2F?style=for-the-badge&logo=node.js)
+- ![Sass](https://img.shields.io/badge/-sass-0A1A2F?style=for-the-badge&logo=sass)
+- ![Tailwind CSS](https://img.shields.io/badge/-tailwind-0A1A2F?style=for-the-badge&logo=tailwindcss)
 
-![IDE](https://img.shields.io/badge/-IDE-darkblue?style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=for-the-badge&logo=visualstudiocode)
+Além disso, tenho experiência em bancos de dados MongoDB.
 
-![Linguagens de Programação](https://img.shields.io/badge/-linguagens%20de%20programação-red?style=for-the-badge)
-![Javascript](https://img.shields.io/badge/-javascript-0A1A2F?style=for-the-badge&logo=javascript)
+## Projetos
+Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
 
-![Technologies](https://img.shields.io/badge/-tecnologias-darkred?style=for-the-badge)
-![Node.Js](https://img.shields.io/badge/-node.js-0A1A2F?style=for-the-badge&logo=node.js)
-![Git](https://img.shields.io/badge/-git-0A1A2F?style=for-the-badge&logo=git)
-![React](https://img.shields.io/badge/-react-0A1A2F?style=for-the-badge&logo=react)
-![Webpack](https://img.shields.io/badge/-webpack-0A1A2F?style=for-the-badge&logo=webpack)
-![Babel](https://img.shields.io/badge/-babel-0A1A2F?style=for-the-badge&logo=babel)
-![Sass](https://img.shields.io/badge/-sass-0A1A2F?style=for-the-badge&logo=sass)
-![Tailwind](https://img.shields.io/badge/-tailwind-0A1A2F?style=for-the-badge&logo=tailwindcss)
+ API RESTful: [Ver repositório](https://github.com/l0cass/express-restfull).
+
+## Contato
+Você pode me encontrar online nos seguintes lugares:
+
+- GitHub: [@l0cass](https://github.com/l0cass)
+- Email: piffer.lucas0@gmail.com
+
+Sinta-se à vontade para me contatar para colaborações ou apenas para dizer oi! 😊
