@@ -22,7 +22,6 @@ Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
 ## Contato
 Você pode me encontrar online nos seguintes lugares:
 
-- GitHub: [@l0cass](https://github.com/l0cass)
 - Email: piffer.lucas0@gmail.com
 
 Sinta-se à vontade para me contatar para colaborações ou apenas para dizer oi! 😊
