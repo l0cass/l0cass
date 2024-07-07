@@ -1,7 +1,7 @@
 # Olá! Eu sou Lucas Piffer 👋
 
 ## Sobre mim
-Olá! Meu nome é Lucas Piffer, tenho 15 anos e sou um desenvolvedor Fullstack. Estou sempre em busca de aprender e aprimorar minhas habilidades em desenvolvimento web. 
+Olá! Meu nome é Lucas Piffer, tenho 16 anos e sou um desenvolvedor Fullstack. Estou sempre em busca de aprender e aprimorar minhas habilidades em desenvolvimento web. 
 
 ## Habilidades
 Aqui estão algumas das tecnologias com as quais trabalho:
