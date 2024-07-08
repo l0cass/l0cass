@@ -17,7 +17,8 @@ Além disso, tenho experiência em bancos de dados MongoDB.
 ## Projetos
 Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
 
- API RESTful: [Ver repositório](https://github.com/l0cass/express-restfull).
+ API de Blog: [Ver repositório](https://github.com/l0cass/blog-crud).
+ Facebook log-in page using React-Native: [Ver repositório](https://github.com/l0cass/native-register-account)
 
 ## Contato
 Você pode me encontrar online nos seguintes lugares:
