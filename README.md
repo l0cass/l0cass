@@ -8,9 +8,13 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 - ![Git](https://img.shields.io/badge/-git-0A1A2F?style=for-the-badge&logo=git)
 - ![React](https://img.shields.io/badge/-react-0A1A2F?style=for-the-badge&logo=react)
+- ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=for-the-badge&logo=react)
 - ![Node.js](https://img.shields.io/badge/-node.js-0A1A2F?style=for-the-badge&logo=node.js)
 - ![Sass](https://img.shields.io/badge/-sass-0A1A2F?style=for-the-badge&logo=sass)
 - ![Tailwind CSS](https://img.shields.io/badge/-tailwind-0A1A2F?style=for-the-badge&logo=tailwindcss)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=for-the-badge&logo=mongodb)
+- ![Express](https://img.shields.io/badge/-Express-0A1A2F?style=for-the-badge&logo=express)
+
 
 Além disso, tenho experiência em bancos de dados MongoDB.
 
