@@ -12,7 +12,7 @@ Sou **Lucas Piffer**, um desenvolvedor **Full Stack** apaixonado por tecnologia,
 ![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0A1A2F?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-0A1A2F?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/-Java-0A1A2F?style=for-the-badge&logo=openjdk)
 ![SQL](https://img.shields.io/badge/-SQL-0A1A2F?style=for-the-badge&logo=postgresql)
 
 ---
